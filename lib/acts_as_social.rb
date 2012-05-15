@@ -1,0 +1,2 @@
+module ActsAsSocial
+end

@@ -1,0 +1,6 @@
+*.gem
+.DS_Store
+.orig
+.bundle
+.rvmrc
+.rspec
